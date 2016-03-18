@@ -2,7 +2,7 @@
 
 ## Description ##
 
-Built to add extra functionality to https://github.com/mAAdhaTTah/wordpress-github-sync for serval projects at Mesoshpere
+Built to add extra functionality to https://github.com/mAAdhaTTah/wordpress-github-sync for several projects at Mesoshpere
 
 *A work in progess, posted here for code sharing purposes only.*
 
