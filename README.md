@@ -4,7 +4,7 @@
 
 Built to add extra functionality to https://github.com/mAAdhaTTah/wordpress-github-sync for serval projects at Mesoshpere
 
-*A work in progess*
+*A work in progess, posted here for code sharing purposes only.*
 
 ### WordPress GitHub Sync Extra has 5 Modules: ###
 
