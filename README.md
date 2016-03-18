@@ -17,4 +17,7 @@ Built to add extra functionality to https://github.com/mAAdhaTTah/wordpress-gith
 4. *Sync Image Path*: Imports images from git and converts tag markup to Wordpress theme.
 
 5. *Sync File Name*: Ties the filename in git to the slug in Wordpress ( Currently this is only working in one direction, git -> Wordpress. 
+ 
+## Warning ##
 
+This plugin required a modified version of WordPress GitHub Sync and will not function with out it.
